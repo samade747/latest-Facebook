@@ -1,0 +1,48 @@
+.post-container {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    padding: 16px;
+    margin: 20px;
+}
+
+.user-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+.username {
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+.post-content {
+    line-height: 1.5;
+}
+
+.action-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+}
+
+.like-btn,
+.comment-btn {
+    cursor: pointer;
+    color: #555;
+}
+
+.main_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
