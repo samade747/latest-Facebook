@@ -33,14 +33,14 @@ import {
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  const firebaseConfig = {
-    apiKey: "AIzaSyBN_7ETQNDk_tfdoEOWbuUgUNQcylUf1Ew",
-    authDomain: "social-media-app-67c6c.firebaseapp.com",
-    projectId: "social-media-app-67c6c",
-    storageBucket: "social-media-app-67c6c.appspot.com",
-    messagingSenderId: "540460296890",
-    appId: "1:540460296890:web:57b9ead047e37123d7b083"
-  };
+const firebaseConfig = {
+  apiKey: "AIzaSyBHNnFmy-OPQakG33GUJBsmYSrv0ehQjfk",
+  authDomain: "latest-social-media.firebaseapp.com",
+  projectId: "latest-social-media",
+  storageBucket: "latest-social-media.appspot.com",
+  messagingSenderId: "930667751617",
+  appId: "1:930667751617:web:7acc46b075586b0c17cc40"
+};
 
   
 // Initialize Firebase
